@@ -1,0 +1,7 @@
+{
+  "name": "@dyrkov/eslint",
+  "version": "0.1.0",
+  "description": "dyrkov eslint configuration",
+  "main": "index.js",
+  "license": "MIT"
+}
