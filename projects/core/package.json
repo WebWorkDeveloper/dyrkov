@@ -1,0 +1,7 @@
+{
+  "name": "@dyrkov/core",
+  "version": "0.1.0",
+  "description": "core code",
+  "main": "index.js",
+  "license": "MIT"
+}
