@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "dyrkov",
+  "description": "Monorepo",
+  "workspaces": [
+    "projects/*"
+  ],
+  "author": {
+    "name": "Dyrkov Andrey",
+    "email": "webworkdveloper@gmail.com",
+    "url": "https://webworkdveloper.github.io"
+  },
+  "license": "MIT"
+}
