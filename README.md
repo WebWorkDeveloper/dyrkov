@@ -1,6 +1,6 @@
 # Dyrkov projects
 
-Monorepo for code an code examples
+Monorepo for my code
 
 ## Development
 
