@@ -1,5 +1,6 @@
-# @dyrkov
-Dyrkov monorepo for code an code examples
+# Dyrkov projects
+
+Monorepo for code an code examples
 
 ## Development
 
