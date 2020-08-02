@@ -1,0 +1,12 @@
+{
+  "name": "@dyrkov/telegram-theme-spotify",
+  "version": "0.1.0",
+  "description": "Telegram theme styled by spofity app",
+  "main": "README.md",
+  "author": {
+    "name": "Dyrkov Andrey",
+    "email": "webworkdveloper@gmail.com",
+    "url": "https://webworkdveloper.github.io"
+  },
+  "license": "MIT"
+}
