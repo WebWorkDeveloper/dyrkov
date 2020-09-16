@@ -2,13 +2,9 @@
 
 Telegram theme styled by spofity app
 
-## Themes
-- [Desktop](./desktop/README.md)
-
-## Activation
-1. In Telegram Desktop, go to setting and under the `Chat background` section click on `Choose frome file`.
-2. Select the `spotify.tdesktop-theme` file you just downloaded.
-3. Click Keep Changes to apply the theme.
+## Share
+You can install desktop theme by [share link](https://t.me/addtheme/CHeoart8eBrgpN71)
+You can insall ios theme by [share link](https://t.me/addtheme/W6cIJNxFMY0rkgl9)
 
 ## Issues
 
