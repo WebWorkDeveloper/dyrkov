@@ -32,7 +32,9 @@ try {
 
     return res.send(new InternalServerError(err.message))
 }
+```
 
+```
 import DomainError  from '@dyrkov/errors/DomainError';
 
 try {
