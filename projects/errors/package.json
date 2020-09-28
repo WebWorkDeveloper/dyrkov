@@ -1,0 +1,15 @@
+{
+  "name": "@dyrkov/errors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+      "debug": "node --inspect index.js",
+      "start": "node index.js"
+  },
+  "devDependencies": {
+    "@dyrkov/eslint-config": "^0.2.6",
+    "eslint": "^6.8.0"
+  }
+}
