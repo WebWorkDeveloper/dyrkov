@@ -1,0 +1,9 @@
+{
+  "name": "@dyrkov/graphql",
+  "version": "1.0.0",
+  "description": "Graphql example",
+  "main": "index.js",
+  "author": "Dyrkov",
+  "license": "MIT",
+  "private": true
+}
