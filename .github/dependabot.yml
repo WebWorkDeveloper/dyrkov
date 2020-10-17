@@ -6,7 +6,7 @@
 version: 2
 updates:
   - package-ecosystem: "npm"
-    directory: "/projects"
+    directory: "/projects/electron"
     commit-message:
       prefix: "NPM"
       include: "scope"
