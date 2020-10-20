@@ -3,7 +3,16 @@
   "version": "1.0.0",
   "description": "Graphql example",
   "main": "index.js",
+  "scripts": {
+    "start": "nodemon src"
+  },
   "author": "Dyrkov",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "graphql": "^15.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
