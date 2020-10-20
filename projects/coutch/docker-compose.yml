@@ -1,0 +1,11 @@
+version: '3.3'
+
+networks:
+  default:
+
+services:
+  db:
+    image: apache/couchdb:latest
+    env_file: .env
+    ports:
+      - '3000:5984'

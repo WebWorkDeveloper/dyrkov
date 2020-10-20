@@ -1,0 +1,8 @@
+{
+  "name": "@dyrkov/coutch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dyrkov",
+  "license": "MIT",
+  "private": true
+}
