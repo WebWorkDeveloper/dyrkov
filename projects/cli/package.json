@@ -1,0 +1,14 @@
+{
+  "name": "@dyrkov/cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dyrkov",
+  "license": "MIT",
+  "private": true,
+  "bin": {
+    "dinit": "./bin/init.js"
+  },
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
