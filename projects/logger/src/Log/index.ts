@@ -6,12 +6,12 @@ class Log {
 
     public message: String;
 
-    public datetime: Number;
+    public timestamp: Number;
 
     public constructor(level: Level, message: String) {
         this.level = level;
         this.message = message;
-        this.datetime = Math.ceil(Date.now() / 1000);
+        this.timestamp = Math.ceil(Date.now() / 1000);
     }
 }
 
