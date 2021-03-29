@@ -2,9 +2,14 @@
   "private": true,
   "name": "dyrkov",
   "description": "Monorepo",
-  "workspaces": [
-    "projects/*"
-  ],
+  "workspaces": {
+    "packages": [
+      "projects/*"
+    ],
+    "nohoist": [
+      "react-native/**", "**/react-native/**", "**/react-native"
+    ]
+  },
   "author": {
     "name": "Dyrkov Andrey",
     "email": "webworkdveloper@gmail.com",

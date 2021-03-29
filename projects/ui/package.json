@@ -1,0 +1,12 @@
+{
+  "name": "@dyrkov/ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dyrkov Andrey",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "17.0.2",
+    "react-native": "0.63.3"
+  }
+}
