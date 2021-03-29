@@ -1,5 +1,8 @@
 {
-  "version": "0.1.0",
+  "name": "@dyrkov/logger",
+  "author": "Dyrkov Andrey",
+  "module": "dist/logger.esm.js",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -21,8 +24,7 @@
   },
   "peerDependencies": {},
   "husky": {
-    "hooks": {
-    }
+    "hooks": {}
   },
   "prettier": {
     "printWidth": 80,
@@ -30,9 +32,6 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@dyrkov/logger",
-  "author": "Dyrkov Andrey",
-  "module": "dist/logger.esm.js",
   "size-limit": [
     {
       "path": "dist/logger.cjs.production.min.js",
